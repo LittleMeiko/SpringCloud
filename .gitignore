@@ -1,6 +1,6 @@
 .gitignore
 .settings
-/target/
+target/
  
 # built application files
 *.apk
